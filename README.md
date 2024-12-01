@@ -1,3 +1,6 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/GitKinetic/my-configs)
+![License](https://img.shields.io/github/license/GitKinetic/my-configs)
+
 # My Configurations
 
 This repository contains my personal configuration files for Git, shell, and IDEs. These configurations are designed to streamline developer workflows, enhance productivity, and maintain privacy. Feel free to explore, use, or adapt them as needed.
@@ -71,4 +74,9 @@ This repository is licensed under the MIT License. You are free to use, modify, 
 ## Contributing
 Contributions are welcome! If you have suggestions or improvements, feel free to fork the repository and open a pull request.
 
+To contribute:
+1. Fork the repository.
+2. Create a new branch for your changes (`git checkout -b feature-branch`).
+3. Commit your changes with clear messages.
+4. Open a pull request for review.
 
