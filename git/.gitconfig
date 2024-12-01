@@ -1,0 +1,8 @@
+[user]
+    email = 123456+GitKinetic@users.noreply.github.com
+    name = Ken Smith
+[alias]
+    co = checkout
+    cm = commit
+    st = status
+    lg = log --oneline --graph --decorate
