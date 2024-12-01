@@ -1,0 +1,8 @@
+{
+    "editor.tabSize": 4,
+    "editor.wordWrap": "on",
+    "workbench.colorTheme": "Visual Studio Dark",
+    "files.autoSave": "afterDelay",
+    "editor.formatOnSave": true,
+    "extensions.ignoreRecommendations": false
+}
