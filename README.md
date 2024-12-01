@@ -9,6 +9,7 @@ This repository contains my personal configuration files for Git, shell, and IDE
 
 ## Usage
 1. Clone the repository:
+   ``git clone https://github.com/GitKinetic/my-configs.git``
 2. Follow the setup instructions in each folder.
 
 ## License
