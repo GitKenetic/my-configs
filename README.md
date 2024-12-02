@@ -1,5 +1,5 @@
-![GitHub repo size](https://img.shields.io/github/repo-size/GitKinetic/my-configs)
-![License](https://img.shields.io/github/license/GitKinetic/my-configs)
+![GitHub repo size](https://img.shields.io/github/repo-size/GitKenetic/my-configs)
+![License](https://img.shields.io/github/license/GitKenetic/my-configs)
 
 # My Configurations
 
